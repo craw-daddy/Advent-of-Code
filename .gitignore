@@ -1,3 +1,9 @@
+#  My local directory for the input files
+2022/input
+2023/input
+2024/data
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
